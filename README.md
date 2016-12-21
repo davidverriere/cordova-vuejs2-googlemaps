@@ -10,6 +10,11 @@ cordova platform add browser
 cordova platform add android
 ```
 
+set your google map api key in googlemaps.vue file method 
+```javascript
+ load('Your API KEy', '');
+```
+
 Run android
 ```bash
 cordova build android
