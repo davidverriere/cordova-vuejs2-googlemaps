@@ -6,7 +6,7 @@ The project is an illustration of the blog post from [cheesecode.fr](http://chee
 usage 
 ```bash
 npm install
-cordova add platform browser
-cordova add platform android
+cordova platform add browser
+cordova platform add android
 ```
 
