@@ -10,3 +10,15 @@ cordova platform add browser
 cordova platform add android
 ```
 
+Run android
+```bash
+cordova build android
+cordova run android
+```
+
+Run browser
+```bash
+cordova build browser
+cordova run browser
+```
+
